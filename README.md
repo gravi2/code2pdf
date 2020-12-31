@@ -2,7 +2,7 @@
 A small utility scripts to convert your source code files to readable, syntax highlighted PDF for easy printing.
 
 # Sample output
-Take a look at the [sample](./samples/sample1.pdf) output.
+Take a look at the [sample](./sample/sample1.pdf) output.
 # Using it
 There are two options for you to use this utility:
 ## Option 1 - Use the provided Docker image
